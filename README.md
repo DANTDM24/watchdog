@@ -1,17 +1,16 @@
 <h1 align="center">Welcome to Watchdog 👋</h1>
-<p>
-  <a href="#" target="_blank">
-    <img alt="License: MIT" src="https://img.shields.io/badge/License-MIT-yellow.svg" />
-  </a>
-</p>
+
 ![sheilds.io](https://img.shields.io/github/languages/code-size/codeize/watchdog)
-![sheilds.io](https://img.shields.io/github/stars/codeize/watchdog?style=social)\
+![sheilds.io](https://img.shields.io/github/stars/codeize/watchdog?style=social)
 ![sheilds.io](https://img.shields.io/discord/764480029936713748)
+
 ![sheilds.io](https://img.shields.io/david/codeize/watchdog)
 ![sheilds.io](https://img.shields.io/github/languages/top/codeize/watchdog)
 ![sheilds.io](https://img.shields.io/github/contributors/codeize/watchdog)
+
 ![sheilds.io](https://img.shields.io/github/last-commit/codeize/watchdog)
 ![GitHub followers](https://img.shields.io/github/followers/codeize?style=social)
+
 ## Install
 
 ```sh
@@ -25,7 +24,6 @@ See [this folder](https://github.com/Codeize/watchdog/tree/master/.github) for m
 ## Author
 
 👤 **Codeize**
-
 
 ## Show your support
 
