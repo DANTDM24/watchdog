@@ -9,7 +9,6 @@
 ![sheilds.io](https://img.shields.io/github/contributors/codeize/watchdog)
 
 ![sheilds.io](https://img.shields.io/github/last-commit/codeize/watchdog)
-![GitHub followers](https://img.shields.io/github/followers/codeize?style=social)
 
 ## Install
 
