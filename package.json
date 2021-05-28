@@ -1,8 +1,8 @@
 {
-  "name": "tutorials",
+  "name": "watchdog",
   "version": "1.0.0",
   "main": "src/index",
-  "author": "Connor Moriarty",
+  "author": "Codeize",
   "license": "MIT",
   "scripts": {
     "dev": "nodemon ."
@@ -10,7 +10,8 @@
   "devDependencies": {
     "eslint": "^7.0.0",
     "eslint-config-tesseract": "^0.0.2",
-    "nodemon": "^2.0.7"
+    "nodemon": "^2.0.7",
+    "readme-md-generator": "^1.0.0"
   },
   "dependencies": {
     "diff": "^5.0.0",
